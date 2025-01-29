@@ -149,6 +149,18 @@ title = {THE EVOLUTION OF MIXTURE OF EXPERTS: A SURVEY FROM BASICS TO BREAKTHROU
 | MoE-Infinity | [MoE-Infinity: Offloading-Efficient MoE Model Serving](https://arxiv.org/abs/2401.14361) | arXiv | 2024 |
 | SMT 2.0 | [SMT 2.0: A Surrogate Modeling Toolbox with a focus on Hierarchical and Mixed Variables Gaussian Processes](https://arxiv.org/abs/2305.13998) | arXiv | 2023 |
 
+### Self Added Papers 
+
+| **Name** | **Paper**                                                    | **Venue** | **Year** |
+| -------- | ------------------------------------------------------------ | --------- | -------- | 
+| Dense Training, Sparse Inference: Rethinking Training of
+Mixture-of-Experts Language Models
+| [Dense Training, Sparse Inference: Rethinking Training of
+Mixture-of-Experts Language Models
+](https://arxiv.org/pdf/2404.05567) | arXiv | 2024 |
+| SMT 2.0 | [SMT 2.0: A Surrogate Modeling Toolbox with a focus on Hierarchical and Mixed Variables Gaussian Processes](https://arxiv.org/abs/2305.13998) | arXiv | 2023 |
+
+
 <br>
 Hope our survey with collection of all the recent MoE can help your work.
 
