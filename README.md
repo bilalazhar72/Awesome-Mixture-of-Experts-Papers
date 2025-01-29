@@ -153,12 +153,8 @@ title = {THE EVOLUTION OF MIXTURE OF EXPERTS: A SURVEY FROM BASICS TO BREAKTHROU
 
 | **Name** | **Paper**                                                    | **Venue** | **Year** |
 | -------- | ------------------------------------------------------------ | --------- | -------- | 
-| Dense Training, Sparse Inference: Rethinking Training of
-Mixture-of-Experts Language Models
-| [Dense Training, Sparse Inference: Rethinking Training of
-Mixture-of-Experts Language Models
-](https://arxiv.org/pdf/2404.05567) | arXiv | 2024 |
-| SMT 2.0 | [SMT 2.0: A Surrogate Modeling Toolbox with a focus on Hierarchical and Mixed Variables Gaussian Processes](https://arxiv.org/abs/2305.13998) | arXiv | 2023 |
+| Dense Training, Sparse Inference: Rethinking Training of Mixture-of-Experts Language Models| [Dense Training, Sparse Inference: Rethinking Training of Mixture-of-Experts Language Models](https://arxiv.org/pdf/2404.05567) | arXiv | 2024 |
+|Scaling Laws of Finegrained mixture of exports | [Scaling Laws of Finegrained mixture of exports](https://arxiv.org/pdf/2402.07871) | arXiv | 2024 |
 
 
 <br>
